@@ -63,7 +63,7 @@ The first parameter is for data path, and the second parameter is for model path
 (In the last two exps of the script, we also reported improved performances by using an updated training logic. See the "Training" section for more details)
 
 ## Training
-To train to get the AR-Net(ResNet) as shown in Table 1  (mAP~73.8), follow the training script [here](scripts_train.sh). It might take around 1~2 days.
+To train to get the AR-Net(ResNet) as shown in Table 1  (mAP-73.8), follow the training script [here](scripts_train.sh). It might take around 1-2 days.
 
 We also improved our model's performance by simply changing some parameters like the learning rate. The new mAP for AR-Net(ResNet) now is 76.8 (while the updated baseline is 75.6) and the training script can be found [here](scripts_train_new.sh).
 
