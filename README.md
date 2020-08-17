@@ -2,6 +2,9 @@
 [[Project Page]](https://mengyuest.github.io/AR-Net) [[arXiv]](https://arxiv.org/pdf/2007.15796.pdf)
 
 
+![! an image](https://mengyuest.github.io/AR-Net/resources/2_network.png)
+
+
 [Yue Meng](https://mengyuest.github.io/)<sup>1,3</sup>, [Chung-Ching Lin](https://scholar.google.com/citations?&user=legkbM0AAAAJ&view_op=list_works&sortby=pubdate)<sup>1</sup>, [Rameswar Panda](https://rpand002.github.io/)<sup>1</sup>, [Prasanna Sattigeri](https://pronics2004.github.io/)<sup>1</sup>, [Leonid Karlinsky](https://researcher.watson.ibm.com/researcher/view.php?person=il-LEONIDKA)<sup>1</sup>, [Aude Oliva](http://olivalab.mit.edu/audeoliva.html)<sup>1,3</sup>, [Kate Saenko](http://ai.bu.edu/ksaenko.html)<sup>1,2</sup>, [Rogerio Feris](http://rogerioferis.com/)<sup>1</sup>
 
 <sup>1</sup> MIT-IBM Watson AI Lab, IBM Research
